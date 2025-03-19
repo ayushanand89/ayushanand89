@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">🌐Socials</h3>
+<h2 align="left">🌐Socials</h2>
 
 ###
 
@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<h2 align="left">💻Tech Stack:</h2>
+<h1 align="left">💻Tech Stack:</h1>
 
 ###
 
