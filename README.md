@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about building scalable web applications with MERN stack, WebSockets, and real-time technologies. Proficient in React.js, Node.js, C++, and Python, I focus on performance optimization, clean code, and intuitive UI/UX. Always exploring new technologies and solving complex problems.
+A passionate fullstack developer and ML enthusiast
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@ Passionate about building scalable web applications with MERN stack, WebSockets,
 ![](https://nirzak-streak-stats.vercel.app/?user=ayushanand89&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanand89&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
