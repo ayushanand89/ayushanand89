@@ -7,15 +7,14 @@
 ###
 
 <p align="left">🚀 Software Developer at ClanFlare Solutions
-  <br> 🎓 Pursuing B.Tech in Computer Science at J.C. Bose University
+  <br>🎓 Pursuing B.Tech in Computer Science at J.C. Bose University
   <br> 🤖 ML Enthusiast
 </p>
 
 ###
 
-<h2 align="left">🌐Socials</h2>
+<p align="left"><span style="font-size: 32px;">🌐Socials</p>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ayush-anand-a91919266/" target="_blank">
@@ -33,7 +32,7 @@
 
 <br clear="both">
 
-<h1 align="left">💻Tech Stack:</h1>
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
@@ -94,8 +93,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
-
-###
 
 ###
 <picture>
