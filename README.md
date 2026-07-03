@@ -3,12 +3,12 @@
 <img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JjNmd6bjhuZnQ1Mm02MmhjcmJ4MjhlMm8zZnFoNTE1YW9xZnRmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 
 <p align="left">
-  🚀 Software Developer at <b>ClanFlare Solutions</b> — architecting a scalable "Community-as-a-Service" platform <br>
-  🔒 Shipped <b>Sukh Sadam</b> — a two-sided recovery platform with RLS-enforced auth &amp; race-proof payments <br>
-  🧠 Built an <b>Enterprise AI Persona Chatbot</b> (RAG, Pinecone/Cohere, Vector DBs, n8n workflow automation) <br>
-  🎓 B.Tech in Computer Engineering (Data Science) @ J.C. Bose University (Class of 2025) <br>
-  🏆 Top 10% — Amazon ML Summer School | AIR 713 — TCS CodeVita (top 0.15% of 500K) <br>
-  ⚡ 500+ DSA problems in C++ | building scalable, fault-tolerant cloud architectures
+  🚀 Software Developer @ <b>ClanFlare Solutions</b> <br>
+  🔒 Shipped <b>Sukh Sadam</b> — RLS auth + race-proof payments <br>
+  🧠 Built an <b>Enterprise AI Chatbot</b> (RAG + Vector DBs) <br>
+  🎓 B.Tech CSE (Data Science) @ J.C. Bose University '25 <br>
+  🏆 Amazon ML School (Top 10%) | AIR 713 TCS CodeVita <br>
+  ⚡ 500+ DSA in C++ | scalable, fault-tolerant systems
 </p>
 
 ---
