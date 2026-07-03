@@ -1,13 +1,14 @@
-<h1 align="left">Hello World! I'm Ayush, a Full-Stack Web Developer & AI Enthusiast 👋🏽</h1>
+<h1 align="left">Hello World! I'm Ayush, a Full-Stack & AI Engineer 👋🏽</h1>
 
 <img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JjNmd6bjhuZnQ1Mm02MmhjcmJ4MjhlMm8zZnFoNTE1YW9xZnRmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 
 <p align="left">
-  🚀 Software Developer at <b>ClanFlare Solutions</b> <br>
-  🧠 Building Enterprise AI Persona Chatbots (RAG, Vector DBs, Workflow Automation) <br>
+  🚀 Software Developer at <b>ClanFlare Solutions</b> — architecting a scalable "Community-as-a-Service" platform <br>
+  🔒 Shipped <b>Sukh Sadam</b> — a two-sided recovery platform with RLS-enforced auth &amp; race-proof payments <br>
+  🧠 Built an <b>Enterprise AI Persona Chatbot</b> (RAG, Pinecone/Cohere, Vector DBs, n8n workflow automation) <br>
   🎓 B.Tech in Computer Engineering (Data Science) @ J.C. Bose University (Class of 2025) <br>
-  🏆 Top 10% - Amazon ML Summer School | AIR 713 - TCS CodeVita <br>
-  ⚡ Actively grinding LeetCode (C++) and building scalable cloud architectures
+  🏆 Top 10% — Amazon ML Summer School | AIR 713 — TCS CodeVita (top 0.15% of 500K) <br>
+  ⚡ 500+ DSA problems in C++ | building scalable, fault-tolerant cloud architectures
 </p>
 
 ---
@@ -25,9 +26,25 @@
 
 ---
 
+<h2 align="left">🛠️ Featured Projects</h2>
+
+<p align="left">
+🏥 <b><a href="https://sukh-sadam.vercel.app/" target="_blank">Sukh Sadam — Gambling Recovery Platform</a></b><br>
+Two-sided platform (patient app + counselor dashboard) with PostgreSQL Row-Level Security, session-derived identity (IDOR-safe), and race-proof billing via atomic Postgres RPCs + Razorpay HMAC verification.<br>
+<i>Next.js 16 · TypeScript · Supabase (PostgreSQL/RLS) · Razorpay</i>
+</p>
+
+<p align="left">
+🤖 <b><a href="https://umar-punjabi-chat.vercel.app/" target="_blank">Enterprise AI Chatbot (RAG Architecture)</a></b><br>
+Production RAG agent emulating a domain expert over 50+ hrs of media, with a two-tier retrieval system (Upstash Vector + Pinecone/Cohere) and HyDE query rewriting. Serves 2,000+ users.<br>
+<i>Next.js · n8n · RAG · Pinecone · Cohere · Upstash</i>
+</p>
+
+---
+
 <h2 align="left">💻 Tech Stack</h2>
 
-<h3 align="left">Frontend & Languages</h3>
+<h3 align="left">Languages & Frontend</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" style="margin-right:12px;"/>
@@ -35,7 +52,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" style="margin-right:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="36" style="margin-right:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36"/>
 </p>
 
@@ -44,9 +61,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" style="margin-right:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" style="margin-right:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" style="margin-right:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36"/>
 </p>
 
@@ -54,8 +72,9 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" style="margin-right:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" style="margin-right:12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" style="margin-right:12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" style="margin-right:12px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="36"/>
