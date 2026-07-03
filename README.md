@@ -11,6 +11,12 @@
   ⚡ 500+ DSA in C++ | scalable, fault-tolerant systems
 </p>
 
+<p align="left">
+<a href="https://ayush.clanflare.dev/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Check%20out%20my%20Portfolio-ayush.clanflare.dev-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
+
 ---
 
 <h2 align="left">🌐 Socials</h2>
