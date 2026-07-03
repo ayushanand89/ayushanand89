@@ -16,6 +16,8 @@
 <h2 align="left">🌐 Socials</h2>
 
 <p align="left">
+<a href="https://ayush.clanflare.dev/" target="_blank">
+<img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f310.svg" width="30" style="margin-right:12px;"/></a>
 <a href="https://www.linkedin.com/in/ayush-anand-a91919266/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" style="margin-right:12px;"/></a>
 <a href="mailto:ayushanand0108@gmail.com" target="_blank">
